@@ -21,8 +21,7 @@
 | Informasi          | Detail                               |
 | ------------------ | ------------------------------------ |
 | **Nama**           | M. Yasir                             |
-| **NIM**            | `[NIM ANDA]`                         |
-| **Kelas**          | `[KELAS ANDA]`                       |
+| **NIM**            | 23146005                             |
 | **Mata Kuliah**    | Data Mining (SIF304)                 |
 | **Dosen Pengampu** | Teuku Rizky Noviandy, S.Kom., M.Kom. |
 | **Tahun Ajaran**   | Genap 2025/2026                      |
